@@ -1,3 +1,3 @@
 #GifExperetApp
 
-Este es mi repositorio del proyecto de Gif Expert App de React del curso de Udemy con Fernando.
+Tool that sends requests to the GIPHY API and obtains the searched images. Here I make use of React JS with the help of useState, useEffect and custom Hooks. Vite and Yarn were used as development tools
